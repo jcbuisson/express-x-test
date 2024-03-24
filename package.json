@@ -14,8 +14,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jcbuisson/express-x": "latest",
-    "@jcbuisson/express-x-client": "latest",
+    "@jcbuisson/express-x": "^2.0.3",
+    "@jcbuisson/express-x-client": "^2.0.2",
     "@prisma/client": "latest",
     "axios": "latest",
     "body-parser": "latest",
